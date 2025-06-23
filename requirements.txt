@@ -1,0 +1,17 @@
+openai
+streamlit
+python-dotenv
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+gspread
+pandas
+requests
+flask
+whisper
+buffer-python
+schedule
+calendly-python
+python-instagram
+PyPDF2
+reportlab 
